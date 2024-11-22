@@ -1,0 +1,4 @@
+baseURL = 'https://www.americanscoreboard.org/'
+languageCode = 'en-us'
+title = 'American ScoreBoard'
+theme = 'ananke'
