@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on American ScoreBoard</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://www.americanscoreboard.org/posts/</link>
     <description>Recent content in Posts on American ScoreBoard</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 22 Nov 2024 15:40:19 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.americanscoreboard.org/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>October 2024</title>
-      <link>http://localhost:1313/posts/october-2024/</link>
+      <link>https://www.americanscoreboard.org/posts/october-2024/</link>
       <pubDate>Fri, 22 Nov 2024 15:40:19 -0500</pubDate>
-      <guid>http://localhost:1313/posts/october-2024/</guid>
+      <guid>https://www.americanscoreboard.org/posts/october-2024/</guid>
       <description>&lt;h2 id=&#34;october-2024-numbers&#34;&gt;October 2024 Numbers&lt;/h2&gt;&#xA;&lt;h3 id=&#34;inflation&#34;&gt;Inflation&lt;/h3&gt;&#xA;&lt;p&gt;&lt;code&gt;The annual inflation rate for the United States was 2.6% for the 12 months ending October, compared to the previous rate increase of 2.4%, according to U.S. Labor Department data published on November 13, 2024.&lt;/code&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.usinflationcalculator.com/inflation/current-inflation-rates/&#34;&gt;source&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;gdp&#34;&gt;GDP&lt;/h3&gt;&#xA;&lt;p&gt;Current Data for September 2024&lt;/p&gt;&#xA;&lt;p&gt;&lt;code&gt;US GDP is at a current level of 29.35T, up from 29.02T last quarter and up from 27.97T one year ago. This is a change of 1.15% from last quarter and 4.94% from one year ago.&lt;/code&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Introduction</title>
-      <link>http://localhost:1313/posts/introduction/</link>
+      <link>https://www.americanscoreboard.org/posts/introduction/</link>
       <pubDate>Fri, 22 Nov 2024 15:11:10 -0500</pubDate>
-      <guid>http://localhost:1313/posts/introduction/</guid>
+      <guid>https://www.americanscoreboard.org/posts/introduction/</guid>
       <description>&lt;h2 id=&#34;project-introduction&#34;&gt;Project Introduction&lt;/h2&gt;&#xA;&lt;p&gt;This idea came from a post by Josh Marshall at &lt;a href=&#34;https://talkingpointsmemo.com/edblog/my-kingdom-for-some-scorecards&#34;&gt;TalkingPointsMemo&lt;/a&gt; where he asked about possibly keeping track of some key metrics throught this second Trump administration.&lt;/p&gt;&#xA;&lt;p&gt;&lt;code&gt;It would be very beneficial for Democrats to create scorecards right now charting where inflation, unemployment and GDP were at the end of Biden’s term and regularly updating it with Trump’s latest numbers.&lt;/code&gt;&lt;/p&gt;&#xA;&lt;p&gt;My intention is to build just that sort of thing on this website but it&amp;rsquo;s just getting started and I&amp;rsquo;ll probably need help!&lt;/p&gt;</description>
     </item>
   </channel>
