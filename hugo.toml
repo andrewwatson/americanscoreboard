@@ -1,4 +1,14 @@
 baseURL = 'https://www.americanscoreboard.org/'
 languageCode = 'en-us'
 title = 'American ScoreBoard'
-theme = 'beautifulhugo'
+theme = "anubis2"
+
+
+[params.author]
+name = "Andy Watson"
+
+[markup.goldmark.renderer]
+unsafe = true # true | false; Enable unsafe mode to have a better experience
+
+[markup.highlight]
+style = 'base16-snazzy' # Chroma style, find more at here: https://swapoff.org/chroma/playground/
