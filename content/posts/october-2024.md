@@ -6,6 +6,8 @@ title = 'October 2024 Numbers'
 
 # October Numbers
 
+<!--more-->
+
 ## Inflation
 
 `The annual inflation rate for the United States was 2.6% for the 12 months ending October, compared to the previous rate increase of 2.4%, according to U.S. Labor Department data published on November 13, 2024.`

@@ -6,8 +6,15 @@
     <description>Recent content in Posts on American ScoreBoard</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 Nov 2024 15:40:19 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 01 Dec 2024 01:00:58 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>November</title>
+      <link>http://localhost:1313/posts/november/</link>
+      <pubDate>Sun, 01 Dec 2024 01:00:58 -0500</pubDate>
+      <guid>http://localhost:1313/posts/november/</guid>
+      <description>&lt;h1 class=&#34;heading&#34; id=&#34;november-updates&#34;&gt;&#xA;  November Updates&lt;span class=&#34;heading__anchor&#34;&gt; &lt;a href=&#34;#november-updates&#34;&gt;#&lt;/a&gt;&lt;/span&gt;&#xA;&lt;/h1&gt;</description>
+    </item>
     <item>
       <title>Things Are Going to Get Expensive</title>
       <link>http://localhost:1313/posts/things-are-going-to-get-expensive/</link>
