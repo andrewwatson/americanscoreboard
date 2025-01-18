@@ -4,9 +4,12 @@ draft = false
 title = 'Things Are Going to Get Expensive'
 +++
 
-I'm starting to see a lot of things like this in various media lately: "What's going to be more expensive?" and it's
-refreshing to an effort to get ahead of what could happen if Trump follows through on his insane threats to impose 25%
-tariffs on everything imported from Canada and Mexico and 10% on imports from China.
+I'm starting to see a lot of things like this in various media lately: "What's going to be more expensive?"
+
+<!--more-->
+
+One of the primary goals of this site is to get ahead of what could happen if Trump follows through on his insane threats to impose 25%
+tariffs on everything imported from Canada and Mexico and 10% on imports from China and to make it plainly evident the source of these price increased and economic slowdowns.
 
 [CNN - What could get more expensive if Trump launches a new trade war with Mexico and Canada](https://www.cnn.com/2024/11/26/business/tariffs-mexico-canada-more-expensive/index.html)
 
