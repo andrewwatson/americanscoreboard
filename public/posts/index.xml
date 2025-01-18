@@ -2,39 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on American ScoreBoard</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://www.americanscoreboard.org/posts/</link>
     <description>Recent content in Posts on American ScoreBoard</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Dec 2024 01:00:58 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>November</title>
-      <link>http://localhost:1313/posts/november/</link>
-      <pubDate>Sun, 01 Dec 2024 01:00:58 -0500</pubDate>
-      <guid>http://localhost:1313/posts/november/</guid>
-      <description>&lt;h1 class=&#34;heading&#34; id=&#34;november-updates&#34;&gt;&#xA;  November Updates&lt;span class=&#34;heading__anchor&#34;&gt; &lt;a href=&#34;#november-updates&#34;&gt;#&lt;/a&gt;&lt;/span&gt;&#xA;&lt;/h1&gt;</description>
-    </item>
+    <lastBuildDate>Tue, 26 Nov 2024 15:40:19 -0500</lastBuildDate>
+    <atom:link href="https://www.americanscoreboard.org/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Things Are Going to Get Expensive</title>
-      <link>http://localhost:1313/posts/things-are-going-to-get-expensive/</link>
+      <link>https://www.americanscoreboard.org/posts/things-are-going-to-get-expensive/</link>
       <pubDate>Tue, 26 Nov 2024 15:40:19 -0500</pubDate>
-      <guid>http://localhost:1313/posts/things-are-going-to-get-expensive/</guid>
+      <guid>https://www.americanscoreboard.org/posts/things-are-going-to-get-expensive/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m starting to see a lot of things like this in various media lately: &amp;ldquo;What&amp;rsquo;s going to be more expensive?&amp;rdquo; and it&amp;rsquo;s&#xA;refreshing to an effort to get ahead of what could happen if Trump follows through on his insane threats to impose 25%&#xA;tariffs on everything imported from Canada and Mexico and 10% on imports from China.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.cnn.com/2024/11/26/business/tariffs-mexico-canada-more-expensive/index.html&#34;&gt;CNN - What could get more expensive if Trump launches a new trade war with Mexico and Canada&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>October 2024 Numbers</title>
-      <link>http://localhost:1313/posts/october-2024/</link>
+      <link>https://www.americanscoreboard.org/posts/october-2024/</link>
       <pubDate>Fri, 22 Nov 2024 15:40:19 -0500</pubDate>
-      <guid>http://localhost:1313/posts/october-2024/</guid>
-      <description>&lt;h1 class=&#34;heading&#34; id=&#34;october-numbers&#34;&gt;&#xA;  October Numbers&lt;span class=&#34;heading__anchor&#34;&gt; &lt;a href=&#34;#october-numbers&#34;&gt;#&lt;/a&gt;&lt;/span&gt;&#xA;&lt;/h1&gt;&lt;h2 class=&#34;heading&#34; id=&#34;inflation&#34;&gt;&#xA;  Inflation&lt;span class=&#34;heading__anchor&#34;&gt; &lt;a href=&#34;#inflation&#34;&gt;#&lt;/a&gt;&lt;/span&gt;&#xA;&lt;/h2&gt;&lt;p&gt;&lt;code&gt;The annual inflation rate for the United States was 2.6% for the 12 months ending October, compared to the previous rate increase of 2.4%, according to U.S. Labor Department data published on November 13, 2024.&lt;/code&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.usinflationcalculator.com/inflation/current-inflation-rates/&#34;&gt;source&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 class=&#34;heading&#34; id=&#34;gdp&#34;&gt;&#xA;  GDP&lt;span class=&#34;heading__anchor&#34;&gt; &lt;a href=&#34;#gdp&#34;&gt;#&lt;/a&gt;&lt;/span&gt;&#xA;&lt;/h2&gt;&lt;p&gt;Current Data for September 2024&lt;/p&gt;&#xA;&lt;p&gt;&lt;code&gt;US GDP is at a current level of 29.35T, up from 29.02T last quarter and up from 27.97T one year ago. This is a change of 1.15% from last quarter and 4.94% from one year ago.&lt;/code&gt;&lt;/p&gt;</description>
+      <guid>https://www.americanscoreboard.org/posts/october-2024/</guid>
+      <description>&lt;h1 class=&#34;heading&#34; id=&#34;october-numbers&#34;&gt;&#xA;  October Numbers&lt;span class=&#34;heading__anchor&#34;&gt; &lt;a href=&#34;#october-numbers&#34;&gt;#&lt;/a&gt;&lt;/span&gt;&#xA;&lt;/h1&gt;</description>
     </item>
     <item>
       <title>Introduction</title>
-      <link>http://localhost:1313/posts/introduction/</link>
+      <link>https://www.americanscoreboard.org/posts/introduction/</link>
       <pubDate>Fri, 22 Nov 2024 15:11:10 -0500</pubDate>
-      <guid>http://localhost:1313/posts/introduction/</guid>
-      <description>&lt;h1 class=&#34;heading&#34; id=&#34;project-introduction&#34;&gt;&#xA;  Project Introduction&lt;span class=&#34;heading__anchor&#34;&gt; &lt;a href=&#34;#project-introduction&#34;&gt;#&lt;/a&gt;&lt;/span&gt;&#xA;&lt;/h1&gt;&lt;p&gt;This idea came from a post by Josh Marshall at &lt;a href=&#34;https://talkingpointsmemo.com/edblog/my-kingdom-for-some-scorecards&#34;&gt;TalkingPointsMemo&lt;/a&gt; where he asked about possibly keeping track of some key metrics throught this second Trump administration.&lt;/p&gt;&#xA;&lt;p&gt;&lt;code&gt;It would be very beneficial for Democrats to create scorecards right now charting where inflation, unemployment and GDP were at the end of Biden’s term and regularly updating it with Trump’s latest numbers.&lt;/code&gt;&lt;/p&gt;&#xA;&lt;p&gt;My intention is to build just that sort of thing on this website but it&amp;rsquo;s just getting started and I&amp;rsquo;ll probably need help!&lt;/p&gt;</description>
+      <guid>https://www.americanscoreboard.org/posts/introduction/</guid>
+      <description>&lt;h1 class=&#34;heading&#34; id=&#34;project-introduction&#34;&gt;&#xA;  Project Introduction&lt;span class=&#34;heading__anchor&#34;&gt; &lt;a href=&#34;#project-introduction&#34;&gt;#&lt;/a&gt;&lt;/span&gt;&#xA;&lt;/h1&gt;&lt;p&gt;This idea came from a post by Josh Marshall at &lt;a href=&#34;https://talkingpointsmemo.com/edblog/my-kingdom-for-some-scorecards&#34;&gt;TalkingPointsMemo&lt;/a&gt; where he asked about possibly keeping track of some key metrics throught this second Trump administration.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
